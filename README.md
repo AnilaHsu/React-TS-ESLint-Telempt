@@ -1,12 +1,15 @@
 # Getting Started with React-TS-ESLint-Telempt
 
-This project is based on  [Create React App](https://github.com/facebook/create-react-app) , in addition, added [ESLint](https://github.com/eslint/eslint), [Prettier](https://github.com/prettier/prettier), and [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) settings.\
-Also added some setting in overrides, including added `"no-undef": "off"` for **TypeScript related files** and `"react/react-in-jsx-scope": "off"` for **React v17**.
+This project is based on  [Create React App](https://github.com/facebook/create-react-app).
+
+In addition, added [ESLint](https://github.com/eslint/eslint), [Prettier](https://github.com/prettier/prettier), and [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) settings, also added some setting in overrides of `.eslintrc.json`, including added `"no-undef": "off"` for **TypeScript** related files and `"react/react-in-jsx-scope": "off"` for **React v17**.
 
 ## Usage
 
 ### `npm install`
 Install all modules listed as dependencies in `package.json`.
+
+## Available Scripts
 
 ### `npm start`
 
